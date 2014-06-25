@@ -6,9 +6,7 @@
 
 MOTHER GOOSE FOR GROWN-UPS
 -----File: 002.png---\ReadOn\Bess\zarabee\Lynnette\GroovingPict\-----------
-[Blank Page]
 -----File: 003.png---\ReadOn\Bess\zarabee\Lynnette\GroovingPict\-----------
-[Blank Page]
 -----File: 004.png---\ReadOn\Bess\zarabee\Lynnette\GroovingPict\-----------
 
 [Illustration: "'WILL YOU TELL ME IF IT'S STRAIGHT?'"]
@@ -17,7 +15,7 @@ MOTHER GOOSE FOR GROWN-UPS
 
 
 
-/*
+/Q
 MOTHER GOOSE
 FOR GROWN-UPS
 
@@ -31,17 +29,17 @@ Newell</sc> and <sc>Gustave Verbeek</sc>
 NEW YORK AND LONDON
 HARPER & BROTHERS
 1900
-*/
+Q/
 -----File: 006.png---\ReadOn\Bess\zarabee\Lynnette\GroovingPict\-----------
 
 
 
 
-/*
+/Q
 Copyright, 1900, by <sc>Harper & Brothers</sc>.
 
 <i>All rights reserved</i>
-*/
+Q/
 -----File: 007.png---\marsha_mary\Bess\zarabee\Lynnette\GroovingPict\------
 
 
@@ -50,7 +48,7 @@ Copyright, 1900, by <sc>Harper & Brothers</sc>.
 TO CONSTANCE
 
 
-/*
+/P
 In memory of other days,
 Dear critic, when your whispered praise
     Cheered on the limping pen.
@@ -64,9 +62,8 @@ The trivial charm of rhymes like these
 An instant in the olden spell
 That once we knew and loved so well,
     I have not worked in vain!
-*/
+P/
 -----File: 008.png---\NitBean\Mrs_T\zarabee\Lynnette\GroovingPict\---------
-[Blank Page]
 -----File: 009.png---\ReadOn\Bess\zarabee\Lynnette\GroovingPict\-----------
 
 
@@ -80,11 +77,10 @@ of the editors to reprint in this form such of the
 following verses as were originally published in <i>Harper's
 Magazine</i>, the <i>Saturday Evening Post</i>, and the <i>London Sketch</i>.
 
-/*
+/R
 G. W. C.
-*/
+R/
 -----File: 010.png---\slshell\Mrs_T\zarabee\Lynnette\GroovingPict\---------
-[Blank Page]
 -----File: 011.png---\Demian Smith\Bess\Wilstanz\Lynnette\GroovingPict\----
 
 
@@ -93,7 +89,7 @@ G. W. C.
 CONTENTS
 
 
-/*
+/T
                                                              PAGE
 
 <sc>The Admirable Assertiveness of Jilted Jack</sc>             3
@@ -134,9 +130,8 @@ Town</sc>                                                        71
 <sc>The Touching Tenderness of King Karl the First</sc>         107
 
 <sc>The Unusual Ubiquity of the Inquisitive Gander</sc>         113
-*/
+T/
 -----File: 012.png---\marsha_mary\Bess\Wilstanz\Lynnette\GroovingPict\-----
-[Blank Page]
 -----File: 013.png---\marsha_mary\Bess\Wilstanz\Lynnette\GroovingPict\-----
 
 
@@ -145,7 +140,7 @@ Town</sc>                                                        71
 ILLUSTRATIONS
 
 
-/*
+/T
                                                               PAGE
 
 "'WILL YOU TELL ME IF IT'S STRAIGHT?'"        <i>Frontispiece</i>
@@ -157,21 +152,10 @@ ILLUSTRATIONS
 "WHILE BY KICKS HE LOOSENED BRICKS"               "       78
 
 "SHE PLUCKED HIM WITH RELENTLESS FROWN"           "      114
-*/
+T/
 -----File: 014.png---\marsha_mary\Bess\Wilstanz\Lynnette\GroovingPict\-----
-[Blank Page]
 -----File: 015.png---\marsha_mary\Bess\Wilstanz\Lynnette\GroovingPict\-----
-
-
-
-
-THE ADMIRABLE ASSERTIVENESS
-
-OF
-
-JILTED JACK
 -----File: 016.png---\Rory T\Bess\Wilstanz\Lynnette\GroovingPict\----------
-[Blank Page]
 -----File: 017.png---\Rory T\Bess\Wilstanz\tionskero\GroovingPict\---------
 
 
@@ -184,7 +168,7 @@ OF
 JILTED JACK
 
 
-/*
+/P
 A noble and a generous mind
       Was Jack's;
 Folks knew he would not talk behind
@@ -198,9 +182,7 @@ A flirt of most engaging wiles
       Was Jill;
 On Jack she lavished all her smiles,
       Until
-*/
 -----File: 018.png---\Rory T\Bess\Wilstanz\Amsel\GroovingPict\-------------
-/*
   Her slave (and he was not the first)
   Of lovesick swains became the worst,
   His glance a strong box might have burst,
@@ -223,9 +205,7 @@ Young swain replied: "Oh, there's excuse
   We'll fill a pail and bring it back."
   (The reader will perceive that Jack
       Was putting up a bluff.)
-*/
 -----File: 019.png---\Rory T\Bess\Wilstanz\Amsel\GroovingPict\-------------
-/*
 
 Thus hand in hand the tempting hill
       They scaled,
@@ -243,41 +223,29 @@ With eyes ablaze with anger, she
   You quite forget yourself, it's plain,
   So I'll forget you, too. Insane
   Young man, I'll say <i>oafweederzane</i>."
-      (Her German might be blamed.)[**So true! ]
+      (Her German might be blamed.)
 
 But Jack, whose linguist's pride was pricked,
       To shine,
-Asked: "<i>Meine königin[** should be Königin] will nicht</i>
+Asked: "<i><span lang="de_DE">Meine Königin will nicht</span></i>
       Be mine?"
-*/
 -----File: 020.png---\Node\Mrs_T\Wilstanz\Amsel\GroovingPict\--------------
-/*
-  And when she answered: "Nein" in spleen,
+  And when she answered: "<span lang="de_DE">Nein</span>" in spleen,
   He cried: "Then in the soup tureen
   You'll stay. You're not the only queen
-      Discarded for a nein!"
+      Discarded for a <span lang="de_DE">nein</span>!"
 
 <sc>The moral's</sc> made for maidens young
       And small:
 If you would in a foreign tongue
-        Enthrall,[** indented further than usual]
+        Enthrall,
   Lead off undaunted in a Swede
   Or Spanish speech, and you'll succeed,
   But they who in a German lead
       No favor win at all.
-*/
+P/
 -----File: 021.png---\Node\Mrs_T\Wilstanz\rosec5\GroovingPict\-------------
-
-
-
-
-THE BLATANT BRUTALITY
-
-OF
-
-LITTLE BOW PEEP
 -----File: 022.png---\Node\Mrs_T\Wilstanz\rosec5\GroovingPict\-------------
-[Blank Page]
 -----File: 023.png---\Node\Mrs_T\Wilstanz\rosec5\GroovingPict\-------------
 
 
@@ -290,7 +258,7 @@ OF
 LITTLE BOW PEEP
 
 
-/*
+/P
 Though she was only a shepherdess,
     Tending the meekest of sheep,
 Never was African leopardess
@@ -304,9 +272,7 @@ Yet, as she dozed in a grotto-like
     Sort of a kind of a nook,
 She was so charmingly Watteau-like,
     What with her sheep and her crook;
-*/
 -----File: 024.png---\Node\Mrs_T\Wilstanz\rosec5\GroovingPict\-------------
-/*
 "She is a dryad or nymph," any
     Casual passer would think.
 Poets pronounced her a symphony,
@@ -329,14 +295,9 @@ Daphnis protested impulsively,
     Blushing as red as a rose;
 All was in vain. She convulsively
     Punched the young man in the nose!
-*/
 -----File: 025.png---\Node\Mrs_T\Wilstanz\Lynnette\GroovingPict\-----------
-
-[Illustration: "SHE WAS SO CHARMINGLY WATTEAU-LIKE"]
 -----File: 026.png---\Node\Mrs_T\Wilstanz\Lynnette\GroovingPict\-----------
-[Blank Page]
 -----File: 027.png---\Node\Mrs_T\Wilstanz\Lynnette\GroovingPict\-----------
-/*
 
 All of it's true, every word of it!
     I was not present to peep,
@@ -351,21 +312,12 @@ If you recall Mother Goose, you will
     Might have made Seraphim weep,
 But who can pick the most blamable?
     <i>Both saw a little beau peep!</i>
-*/
+P/
 -----File: 028.png---\Demian Smith\Bess\Wilstanz\Lynnette\GroovingPict\----
-[Blank Page]
 -----File: 029.png---\Demian Smith\Bess\Wilstanz\Lynnette\GroovingPict\----
 
-
-
-
-THE COMMENDABLE CASTIGATION
-
-OF
-
-OLD MOTHER HUBBARD
+[Illustration: "SHE WAS SO CHARMINGLY WATTEAU-LIKE"]
 -----File: 030.png---\Demian Smith\Bess\Wilstanz\Lynnette\GroovingPict\----
-[Blank Page]
 -----File: 031.png---\Demian Smith\Bess\Wilstanz\Lynnette\GroovingPict\----
 
 
@@ -378,7 +330,7 @@ OF
 OLD MOTHER HUBBARD
 
 
-/*
+/P
 She was one of those creatures
         Whose features
     Are hard beyond any reclaim;
@@ -395,11 +347,9 @@ Yet all they said in abuse of her
 Was: "She is prouder than Lucifer!"
     (That, I must say, without meaning to blame,
     Is always the way with that kind of a dame!)
-*/
 -----File: 032.png---\rsuresh\Bess\Wilstanz\Lynnette\GroovingPict\---------
-/*
 
-There never was jolli-[**P2:intentional; to leave?}]
+There never was jolli-
         Er colley
     Than Old Mother Hubbard had found,
 Though cheaply she bought him,
@@ -422,9 +372,7 @@ The colley was barred in
 The neighbors indignant,
         Malignant
     Petitions unanimous signed.
-*/
 -----File: 033.png---\Rebdrury\Bess\Wilstanz\Lynnette\GroovingPict\--------
-/*
 "The nuisance grows nightly,"
         Politely
     They wrote. "It's an odious hound,
@@ -448,13 +396,11 @@ We none of us care if
 We won't be repining
         At fining
     So long as we're rid of the pup!"
-*/
 -----File: 034.png---\Rebdrury\Bess\Wilstanz\Lynnette\GroovingPict\--------
-/*
 They then proceeded to mount a sign,
 Bearing this ominous countersign:
     "<sc>Freemen! The moment has come to protest
-    And Old Mother Hubbard delendum est!</sc>"
+    And Old Mother Hubbard <span lang="la">delendum est</span>!</sc>"
 
 They marched to her gateway,
         And straightway
@@ -473,19 +419,9 @@ Of speech they bereft her,
 While we would deprecate teasing one,
 Still, when a dame has politeness rebuffed,
 She certainly ought to be collared and cuffed.
-*/
+P/
 -----File: 035.png---\Rebdrury\Bess\Wilstanz\Lynnette\GroovingPict\--------
-
-
-
-
-THE DISCOURAGING DISCOVERY
-
-OF
-
-LITTLE JACK HORNER
 -----File: 036.png---\Rebdrury\Bess\Wilstanz\Lynnette\GroovingPict\--------
-[Blank Page]
 -----File: 037.png---\Rebdrury\Bess\Wilstanz\Lynnette\GroovingPict\--------
 
 
@@ -498,7 +434,7 @@ OF
 LITTLE JACK HORNER
 
 
-/*
+/P
 A knack almost incredible for dealing with an edible
   Jack Homer's elder sister was acknowledged to display;
 She labored hard and zealously, but always guarded jealously
@@ -507,9 +443,8 @@ She'd take some indigestible, unpopular comestible,
   And to its better nature would so tenderly appeal
 That Jack invoked a benison upon a haunch of venison,
   When ready she was serving him a little leg of veal!
-*/
 -----File: 038.png---\Rebdrury\Bess\Wilstanz\Lynnette\K7UQT\---------------
-/*
+
 Jack said she was a miracle. The word was not satirical,
   For daily climbing upward, she excelled herself at last:
 The acme of facility, the zenith of ability
@@ -523,9 +458,7 @@ Unflagging pertinacity, and technical sagacity,
   Long nights of sleepless vigil, and long days of constant care
 Had been involved in making it, improving it, and baking it,
   Until of other pies it was the wonder and despair:
-*/
 -----File: 039.png---\Rebdrury\Bess\Wilstanz\Lynnette\K7UQT\---------------
-/*
 So princely and so prominent, so solemn, so predominant
   It looked upon the table, that, with fascinated eye,
 The youth, with sudden wonder struck, electrified, and thunder struck,
@@ -539,9 +472,8 @@ Ah, hideous fatality! for when with eager palate he
   Commenced to eat, he happened on an accident uncouth,
 And cried with stifled moan: "Of it one plum I tried. The stone of it
   Had never been extracted, and I've broke a wisdom tooth!"
-*/
 -----File: 040.png---\Rebdrury\Bess\Wilstanz\Lynnette\K7UQT\---------------
-/*
+
 Jack's sister wept effusively, but loudly and abusively
   His unreserved opinion of her talents he proclaimed;
 He called her names like "driveller" and "simpleton" and "sniveller,"
@@ -550,19 +482,9 @@ He called her names like "driveller" and "simpleton" and "sniveller,"
   A stone to strike in what you thought was paste. One thing alone
 Than this mischance is crueller, and that is for a jeweller
   To strike but paste in what he fondly thought to be a stone.
-*/
+P/
 -----File: 041.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\K7UQT\---------------
-
-
-
-
-THE EMBARRASSING EPISODE
-
-OF
-
-LITTLE MISS MUFFET
 -----File: 042.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\K7UQT\---------------
-[Blank Page]
 -----File: 043.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\K7UQT\---------------
 
 
@@ -575,7 +497,7 @@ OF
 LITTLE MISS MUFFET
 
 
-/*
+/P
 Little Miss Muffet discovered a tuffet,
   (Which never occurred to the rest of us)
 And, as 'twas a June day, and just about noonday,
@@ -589,9 +511,7 @@ A rivulet gabbled beside her and babbled,
   As rivulets always are thought to do,
 And dragon-flies sported around and cavorted,
   As poets say dragon-flies ought to do;
-*/
 -----File: 044.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\K7UQT\---------------
-/*
 When, glancing aside for a moment, she spied
   A horrible sight that brought fear to her,
 A hideous spider was sitting beside her
@@ -614,40 +534,29 @@ It should be explained that at this he was pained:
   He cried: "I have vexed you, no doubt of it!
 Your fist's like a truncheon." "You're still in my luncheon,"
   Was all that she answered. "Get out of it!"
-*/
 -----File: 045.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\K7UQT\---------------
 
-/*
 And <sc>The moral</sc> is this: Be it madam or miss
   To whom you have something to say,
 You are only absurd when you get in the curd
   But you're rude when you get in the whey.
-*/
+P/
 -----File: 046.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\GroovingPict\--------
-[Blank Page]
 -----File: 047.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\jobrien892\----------
-
-
-
-
-THE FEARFUL FINALE
-
-OF THE
-
-IRASCIBLE MOUSE
 -----File: 048.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\Close@Hand\----------
-[Blank Page]
 -----File: 049.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\Close@Hand\----------
 
 
 
 
 THE FEARFUL FINALE
+
 OF THE
+
 IRASCIBLE MOUSE
 
 
-/*
+/P
 Upon a stairway built of brick
   A pleasant-featured clock
 From time to time would murmur "Tick"
@@ -661,11 +570,7 @@ Within the pantry of the house,
   Among some piles of cheese,
 There dwelt an irritable mouse,
   Extremely hard to please:
-*/
 -----File: 050.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\jobrien892\----------
-
-
-/*
 His appetite was most immense.
   Each day he ate a wedge
 Of Stilton cheese. In consequence
@@ -688,10 +593,8 @@ And then, with words that no one ought
   To use, and scornful squeals,
 He cried aloud: "Just what I thought!
   Great oaf, you're full of wheels!"
-*/
 -----File: 051.png---\VickyCK\Mrs_T\Wilstanz\Lynnette\jobrien892\----------
 
-/*
 The timepiece sternly said: "Have done!"
   And through the silent house
 It struck emphatically one.
@@ -714,26 +617,14 @@ And with some blotting paper took
   Run down his herds, his flocks,
 Run down his crops, run down his loam,
   But when it comes to clocks,
-*/
 -----File: 052.png---\msgl\Bess\Wilstanz\Christonie\shadow_reader\---------
-/*
 Pray leave them ticking every one
   In peace upon their shelves:
 When running down is to be done
   The clocks run down themselves.
-*/
+P/
 -----File: 053.png---\msgl\Bess\Wilstanz\Christonie\shadow_reader\---------
-
-
-
-
-THE GASTRONOMIC GUILE
-
-OF
-
-SIMPLE SIMON
 -----File: 054.png---\MrBiffo\Bess\Wilstanz\Christonie\shadow_reader\------
-[Blank Page]
 -----File: 055.png---\MrBiffo\Bess\Wilstanz\Christonie\shadow_reader\------
 
 
@@ -746,7 +637,7 @@ OF
 SIMPLE SIMON
 
 
-/*
+/P
       Conveniently near to where
           Young Simple Simon dwelt
       There was to be a county fair,
@@ -761,12 +652,10 @@ SIMPLE SIMON
           Of horns that people blew,
       Saw wooden horses swing around
           A circle, two and two,
-*/
 -----File: 056.png---\msgl\Bess\Wilstanz\Christonie\shadow_reader\---------
-/*
       Beheld balloons arise, and if
       He scented with a gentle sniff
-      The smells of pies, what is the dif-[**P2 deliberate hyphen to be left?]
+      The smells of pies, what is the dif-
           Ference to me or you?
 (You cannot say my verse is false, because I know it's true.)
 
@@ -784,19 +673,14 @@ SIMPLE SIMON
           Some fifty feet away,
       A pieman, Simple Simon strode
           Toward him, shouting: "Hey!
-*/
 -----File: 057.png---\msgl\Bess\Wilstanz\Christonie\shadow_reader\---------
-
-[Illustration: "NOW SIMON'S TASTES WERE MOST PROFUSE"]
 -----File: 058.png---\sandyn\Bess\Wilstanz\Christonie\shadow_reader\-------
-[Blank Page]
 -----File: 059.png---\sandyn\Bess\Wilstanz\Christonie\shadow_reader\-------
-/*
       What kinds?" as lordly as a prince.
       The pieman said: "I've pumpkin, quince,
-      Blueberry, lemon, peach, and mince:[**missing " ?]
+      Blueberry, lemon, peach, and mince:"
           And, showing his array,
-He added: "Won't you try one, sir? They're very nice to-day."[** No brackets? F1]
+He added: "Won't you try one, sir? They're very nice to-day."
 
       Now Simon's taste was most profuse,
           And so, by way of start,
@@ -806,20 +690,18 @@ He added: "Won't you try one, sir? They're very nice to-day."[** No brackets? F1
       Of lady-fingers, an eclair,
       And ten assorted pies, and there,
           His hand upon his heart,
-He paused to choose between an apple dumpling and a tart.[** No brackets? F1]
+He paused to choose between an apple dumpling and a tart.
 
       Observing that upon his tray
           His goods were growing few,
       The pieman cried: "I beg to say
           That patrons such as you
-*/
 -----File: 060.png---\nanda92\Mrs_T\Wilstanz\Christonie\shadow_reader\-----
-/*
       One does not meet in many a moon.
       Pray, won't you try this macaroon?"
       But soon suspicious, changed his tune,
           Continuing: "What is due
-I beg respectfully to add's a dollar twenty-two."[**No brackets? F1]
+I beg respectfully to add's a dollar twenty-two."
 
       Then Simple Simon put a curb
           Upon his appetite,
@@ -829,35 +711,25 @@ I beg respectfully to add's a dollar twenty-two."[**No brackets? F1]
       And really most offensive word
       The trusting pieman shortly heard
           To soothe his bitter plight:
-"Perhaps I should have said before your wares are out of sight."[** No brackets? F1]
+"Perhaps I should have said before your wares are out of sight."
 
       <sc>The moral</sc> is a simple one,
           But still of consequence.
       We've seen that Simon's sense of fun
           Was almost too intense:
-*/
 -----File: 061.png---\georgie1011\Tony Browne\Wilstanz\Christonie\shadow_reader\-
-/*
       Though blaming his deceitful guise,
       We with the pieman sympathize,
       The latter we must criticize
           Because he was so dense:
-He might have known from what he ate that Simon had no cents.[**No brackets?]
-*/
+He might have known from what he ate that Simon had no cents.
+P/
 -----File: 062.png---\georgie1011\Tony Browne\Wilstanz\rosec5\shadow_reader\-
-[Blank Page]
 -----File: 063.png---\georgie1011\Tony Browne\Wilstanz\rosec5\shadow_reader\-
 
+[Illustration: "NOW SIMON'S TASTES WERE MOST PROFUSE"]
 
-
-
-THE HARMONIOUS HEEDLESSNESS
-
-OF
-
-LITTLE BOY BLUE
 -----File: 064.png---\georgie1011\Tony Browne\Wilstanz\rosec5\shadow_reader\-
-[Blank Page]
 -----File: 065.png---\georgie1011\Tony Browne\Wilstanz\rosec5\shadow_reader\-
 
 
@@ -870,7 +742,7 @@ OF
 LITTLE BOY BLUE
 
 
-/*
+/P
 Composing scales beside the rails
     That flanked a field of corn,
 A farmer's boy with vicious joy
@@ -882,11 +754,9 @@ Took flight before the flagrant airs
 
 He played with care "The Maiden's Prayer;"
     He played "God Save the Queen,"
-"Die Wacht am Rhein," and "Auld Lang Syne,"
+"<span lang="de_DE">Die Wacht am Rhein</span>," and "Auld Lang Syne,"
     And "Wearing of the Green:"
-*/
 -----File: 066.png---\nanda92\Mrs_T\Wilstanz\rosec5\shadow_reader\---------
-/*
 With futile toots, and brutal toots,
     And shrill chromatic scales,
 And utterly inutile toots,
@@ -909,9 +779,7 @@ And viciously, maliciously,
     Went prancing o'er the loam.
 That landscape expeditiously
     Resembled harvest-home.
-*/
 -----File: 067.png---\sandyn\Bess\Wilstanz\rosec5\shadow_reader\-----------
-/*
 
 "Most idle ass of all your class,"
     The farmer said with scorn:
@@ -930,21 +798,10 @@ Or scaling, and assailing, and
     With energy immense,
 Your cows will take a railing, and
     The farmer take offense.
-*/
+P/
 -----File: 068.png---\dharder\Bess\VerenaM\rosec5\shadow_reader\-----------
-[Blank Page]
 -----File: 069.png---\Zieba\Mrs_T\Wilstanz\rosec5\Jaince\------------------
-
-
-
-
-THE INEXCUSABLE IMPROBITY
-
-OF
-
-TOM, THE PIPER'S SON
 -----File: 070.png---\Zieba\Mrs_T\Wilstanz\rosec5\Jaince\------------------
-[Blank Page]
 -----File: 071.png---\sandyn\Bess\Wilstanz\rosec5\Jaince\------------------
 
 
@@ -957,7 +814,7 @@ OF
 TOM, THE PIPER'S SON
 
 
-/*
+/P
 A Paris butcher kept a shop
     Upon the river's bank
 Where you could buy a mutton chop
@@ -971,9 +828,7 @@ This Gallic butcher led a life
     Of highly moral tone;
 He never raised his voice in strife,
     He never drank alone:
-*/
 -----File: 072.png---\sandyn\Bess\Wilstanz\rosec5\Jaince\------------------
-/*
 He simply sat outside his door
 And slept from eight o'clock till four;
 The more he slept, so much the more
@@ -994,11 +849,9 @@ Beheld that pig and murmured: "Why,
     No sooner said than done!
 It seems to me that this I need."
 And grasping it, with all his speed
-Across the Pont des Invalides
+Across the <span lang="fr_FR">Pont des Invalides</span>
     He started on a run.
-*/
 -----File: 073.png---\redallover\Mrs_T\Wilstanz\rosec5\Jaince\-------------
-/*
 
 Then, turning sharply to the right,
     Without a thought of risk,
@@ -1006,15 +859,15 @@ He fled. 'Tis fair to call his flight
     Inordinately brisk.
 But now the town was all astir,
 In vain his feet he strove to spur,
-They caught him, shouting: "Au voleur!"
+They caught him, shouting: "<span lang="fr_FR">Au voleur!</span>"
     Beside the Obelisk.
 
-The breathless butcher cried: "A mort!"
-    The crowd said: "Conspuez!"
+The breathless butcher cried: "<span lang="fr_FR">A mort</span>!"
+    The crowd said: "<span lang="fr_FR">Conspuez</span>!"
 And some: "A bas!" and half a score
-    Responded: "Vive l'armée!"
+    Responded: "<span lang="fr_FR">Vive l'armée</span>!"
 While grim gendarmes with piercing eye,
-And stern remarks about: "Canaille!"
+And stern remarks about: "<span lang="fr_FR">Canaille</span>!"
 The pig abstracted on the sly.
     Such is the Gallic way!
 
@@ -1022,9 +875,7 @@ The piper's offspring, his defeat
     Deep-rooted in his heart,
 A revolutionary sheet
     Proceeded then to start.
-*/
 -----File: 074.png---\redallover\Mrs_T\Wilstanz\rosec5\Jaince\-------------
-/*
 Thenceforward every evening he
 In leaders scathed the Ministry,
 And wished he could accomplish the
@@ -1038,19 +889,9 @@ The editor we strive to pin,
 But we can never find him in.
 What startling knowledge we should win
     If we could find him out!
-*/
+P/
 -----File: 075.png---\redallover\Mrs_T\Wilstanz\Christonie\Jaince\---------
-
-
-
-
-THE JUDICIOUS JUDGMENT
-
-OF
-
-QUITE CONTRARY MARY
 -----File: 076.png---\redallover\Mrs_T\Wilstanz\Christonie\Jaince\---------
-[Blank Page]
 -----File: 077.png---\redallover\Mrs_T\Wilstanz\Christonie\Jaince\---------
 
 
@@ -1063,7 +904,7 @@ OF
 QUITE CONTRARY MARY
 
 
-/*
+/P
 Though Mary had the kind of face
     The rudest wind would softly blow on;
 Though she was full of simple grace,
@@ -1077,9 +918,7 @@ And, though not positive, I think
     She'd heard about Savonarola,
 Had studied Maurice Maeterlinck,
     And read the works of Emile Zola,
-*/
 -----File: 078.png---\redallover\Mrs_T\Wilstanz\Christonie\Jaince\---------
-/*
 And Emerson's and some of Kant's,
     And all of mine and Shopenhauer's;
 But still she cultivated plants,
@@ -1102,10 +941,8 @@ I cannot tell about the rest,
     But, judging from their dress and faces,
 They came from north, east, south, and west,
     But all of them from different places.
-*/
 -----File: 079.png---\redallover\Mrs_T\VerenaM\Christonie\Jaince\----------
 
-/*
 Now, such was Mary's sense of pride,
     Despite their fervent protestations,
 Before she vowed to be a bride
@@ -1128,26 +965,14 @@ This strict examination passed
     Her life devotes unto a garden,
 When horticultural skill's displayed
     Her heart she does not dare to harden.
-*/
 -----File: 080.png---\redallover\Mrs_T\Wilstanz\Christonie\Jaince\---------
-/*
 So crafty suitors, scorn the fates
     And you may lay this flattering balm to
 Your souls; if you but get your dates
     The chances are you'll get the palm, too!
-*/
+P/
 -----File: 081.png---\redallover\Mrs_T\Wilstanz\rosec5\Jaince\-------------
-
-
-
-
-THE LINGUISTIC LANGUOR
-
-OF
-
-CHARLES AUGUSTUS SPRAGUE
 -----File: 082.png---\redallover\Mrs_T\Wilstanz\rosec5\Jaince\-------------
-[Blank Page]
 -----File: 083.png---\redallover\Mrs_T\Wilstanz\rosec5\Jaince\-------------
 
 
@@ -1159,7 +984,7 @@ OF
 
 CHARLES AUGUSTUS SPRAGUE
 
-/*
+/P
 A child of nature curious
     Was Charles Augustus Sprague;
 He made his parents furious
@@ -1173,9 +998,7 @@ A few of his errata
     'Tis just I should avow,
 He called his mother "Tata,"
     And "moo" he dubbed a cow,
-*/
 -----File: 084.png---\whkfla\Mrs_T\Wilstanz\rosec5\Jaince\-----------------
-/*
 Nor was it altogether plain
 Why "choo-choo" meant a railway train.
 He called a cat "miouw," and that
@@ -1198,9 +1021,7 @@ And crashing down to earth he fell.
 Ah me, that I should have to tell
 The words that mild and genial child
     On this occasion spoke!
-*/
 -----File: 085.png---\whkfla\Mrs_T\VerenaM\rosec5\Jaince\------------------
-/*
 
 His face convulsed and chequered
     With passion and with tears,
@@ -1211,40 +1032,28 @@ Heard Charles Augustus speak at last;
 He opened wide his mouth and cried
     These ill conditioned sneers.
 
-"Sapristi! Accidente!
+"<span lang="fr_FR">Sapristi! Accidente!</span>
     Perchance my speech is late,
 But, be she two or twenty,
     A nincompoop I hate!
 What idiot said that woman's 'planned
 To warn, to comfort, and command?'"
 His words I quench. Excuse my French--
-    Je dis que tu m'embêtes!
+    <span lang="fr_FR">Je dis que tu m'embêtes!</span>
 
 <sc>The moral</sc>: Common clocks, we find,
 In silence take a sudden wind,
 But only heroes, as we know,
 In silence take a sudden blow.
-*/
+P/
 -----File: 086.png---\nanda92\Mrs_T\Wilstanz\Jme1374\Jaince\---------------
-[Blank Page]
 -----File: 087.png---\nanda92\Mrs_T\Wilstanz\Jme1374\Jaince\---------------
-
-
-
-
-THE MYSTERIOUS MISAPPREHENSION
-
-CONCERNING
-
-A MAN IN OUR TOWN
 -----File: 088.png---\Simon Buys\Mrs_T\Wilstanz\Jme1374\Jaince\------------
-[Blank Page]
 -----File: 089.png---\Simon Buys\Mrs_T\Wilstanz\Jme1374\Jaince\------------
 
 
 
 
-
 THE MYSTERIOUS MISAPPREHENSION
 
 CONCERNING
@@ -1252,12 +1061,12 @@ CONCERNING
 A MAN IN OUR TOWN
 
 
-/*
+/P
 There was a man in our town,
   Half beggar, half rapscallion,
 Who, just because his eyes were brown,
   Was thought to be Italian:
-And, though with much insistance[**insistence?]
+And, though with much insistence
   He said that people erred,
 And bitterly to Italy
   He frequently referred,
@@ -1268,15 +1077,13 @@ So every one who'd been to Rome
   By aid of Cook's or Gaze's,
 Would call upon him at his home
   To flaunt Italian phrases.
-*/
 -----File: 090.png---\Simon Buys\Mrs_T\VerenaM\alley-palley\Jaince\--------
-/*
-"Capite Questa lingua?"
+"<span lang="it_IT">Capite Questa lingua?</span>"
 The inquiry would be:
-"Pochissimo? Benissimo!
-Vi prego, ditemi,
-  Siete voi contento qua,
-  Lontano dall' Italia?"
+"<span lang="it_IT">Pochissimo? Benissimo!</span>
+<span lang="it_IT">Vi prego, ditemi,</span>
+  <span lang="it_IT">Siete voi contento qua,</span>
+  <span lang="it_IT">Lontano dall'Italia?</span>"
 
 The victim, plunged in deep disgust,
   Grew nervous, could not slumber;
@@ -1293,9 +1100,7 @@ The neighbors said: "So strange a thing
   Might seem to be an omen.
 We <i>thought</i> his wits were wandering,
   But now we <i>know</i> they're Roman!"
-*/
 -----File: 091.png---\Simon Buys\Mrs_T\Wilstanz\alley-palley\cmspence\-----
-/*
 And so at him by legions,
   By bevies, hosts, and herds,
 Professors, purists, tramps, and tourists
@@ -1313,21 +1118,10 @@ I beg you, treasure no displeasure:
   Bow and hold your peace.
     Like Omar, underneath the bow
     You'll find there's paradise enow!
-*/
+P/
 -----File: 092.png---\Simon Buys\Mrs_T\Wilstanz\alley-palley\cmspence\-----
-[Blank Page]
 -----File: 093.png---\Simon Buys\Mrs_T\Wilstanz\alley-palley\cmspence\-----
-
-
-
-
-/*
-THE OPPORTUNE OVERTHROW
-OF
-HUMPTY DUMPTY
-*/
 -----File: 094.png---\Simon Buys\Mrs_T\Wilstanz\alley-palley\cmspence\-----
-[Blank Page]
 -----File: 095.png---\Simon Buys\Mrs_T\VerenaM\alley-palley\cmspence\------
 
 
@@ -1340,7 +1134,7 @@ OF
 HUMPTY DUMPTY
 
 
-/*
+/P
 Upon a wall of medium height
     Bombastically sat
 A boastful boy, and he was quite
@@ -1356,9 +1150,7 @@ When thus for half an hour or more
     He'd played his idle tricks,
 And wounded something like a score
     Of people with the bricks,
-*/
 -----File: 096.png---\Simon Buys\Mrs_T\Wilstanz\alley-palley\cmspence\-----
-/*
 A man who kept a fuel shop
     Across from where he sat
 Remarked: "Well, this has got to stop."
@@ -1381,14 +1173,9 @@ Then to the interested throng
     That watched across the way
 He showed with smiling face a long
     And slender Henry Clay,
-*/
 -----File: 097.png---\HAB\Tony Browne\Wilstanz\applesauce\cmspence\--------
-
-[Illustration: "WHILE BY KICKS HE LOOSENED BRICKS"]
 -----File: 098.png---\HAB\Tony Browne\Wilstanz\applesauce\cmspence\--------
-[Blank Page]
 -----File: 099.png---\HAB\Tony Browne\Wilstanz\Amsel\cmspence\-------------
-/*
 Remarking: "In upon my shelves
     All kinds of coal there are.
 Step in, my friends, and help yourselves.
@@ -1411,28 +1198,18 @@ Triumphant brought him down to earth,
     Become the tool of fate
 When thrown upon a little man,
     Instead of on a grate.
-*/
 -----File: 100.png---\HAB\Tony Browne\Wilstanz\aleena0037\cmspence\--------
-/*
 This story proves that when a brat
     Imagines he's admired,
 And acts in such a fashion that
     He makes his neighbors tired,
 That little fool, who's much too cool;
     Gets warmed when coal is fired.
-*/
+P/
 -----File: 101.png---\HAB\Tony Browne\Wilstanz\aleena0037\cmspence\--------
 
-
-
-
-THE PREPOSTEROUS PERFORMANCE
-
-OF
-
-AN OLD LADY OF BANBURY
+[Illustration: "WHILE BY KICKS HE LOOSENED BRICKS"]
 -----File: 102.png---\HAB\Tony Browne\Wilstanz\aleena0037\cmspence\--------
-[Blank Page]
 -----File: 103.png---\HAB\Tony Browne\Wilstanz\aleena0037\cmspence\--------
 
 
@@ -1445,7 +1222,7 @@ OF
 AN OLD LADY OF BANBURY
 
 
-/*
+/P
 Within a little attic a retiring, but erratic
   Old lady (six-and-eighty, to be frank),
 Made sauces out of cranberry for all the town of Banbury,
@@ -1454,10 +1231,8 @@ Her tendency to thriftiness, her scorn of any shiftiness
   Built a bustling business, and in course
 Of time her secret yearnings were revealed, and all her earnings
   She squandered in the purchase of a horse.
-*/
 -----File: 104.png---\HAB\Tony Browne\Wilstanz\aleena0037\cmspence\--------
 
-/*[**unsure if new verse, but appears so]
 "I am not in a hurry for a waggonette or surrey,"
   She said. "In fact, I much prefer to ride."
 And spite of all premonishment, to everyone's astonishment,
@@ -1467,15 +1242,13 @@ Now this was most periculous, but, what was more ridiculous,
 The lazy steed to cheer up, she'd a bell upon her stirrup,
   And rang it twice to make the creature go!
 
-[** I think is new stanza, but unsure-F1]I blush the truth to utter, but it seems a pound of butter
+I blush the truth to utter, but it seems a pound of butter
   And thirty eggs she had to sell. Of course,
 In scorn of ways pedestrian, this fatuous equestrian
   To market gaily started on the horse.
 Becoming too importunate to hasten, the unfortunate
   Old lady plied her charger with a birch.
-*/
 -----File: 105.png---\Zieba\Mrs_T\Wilstanz\aleena0037\cmspence\------------
-/*
 In view of all her cronies, this stupidest of ponies
   Fell flat before the Presbyterian church!
 
@@ -1494,9 +1267,7 @@ They cried: "Don't do that offen, ma'am, or you will need a coffin, ma'am,
   You've hurt your solar plexus, we're afraid.
 We hope your martyrdom'll let you notice what an omelette
   You've made in half a jiffy. It is great!"
-*/
 -----File: 106.png---\Zieba\Mrs_T\Wilstanz\aleena0037\cmspence\------------
-/*
 She only clutched her bonnet (she had fallen flat upon it),
   And answered: "Will you tell me if it's straight?"
 
@@ -1504,19 +1275,9 @@ She only clutched her bonnet (she had fallen flat upon it),
   Are apt to think old horses of account
 If you would ride, then seek fine examples of the equine,
   And don't look on a molehill as a mount.
-*/
+P/
 -----File: 107.png---\dharder\Bess\Wilstanz\aleena0037\cmspence\-----------
-
-
-
-
-THE QUIXOTIC QUEST
-
-OF
-
-THREE BLIND MICE
 -----File: 108.png---\dharder\Bess\Wilstanz\aleena0037\cmspence\-----------
-[Blank Page]
 -----File: 109.png---\dharder\Bess\Wilstanz\aleena0037\cmspence\-----------
 
 
@@ -1529,7 +1290,7 @@ OF
 THREE BLIND MICE
 
 
-/*
+/P
 A maiden mouse of an arrogant mind
 Had three little swains and all were blind.
 The reason for this I do not know,
@@ -1540,9 +1301,7 @@ She ruled them, schooled them, frequently fooled them,
 Snubbed, tormented, and ridiculed them:
 Mice as a rule are much like men,
 So they swallowed their pride and called again.
-*/
 -----File: 110.png---\brando84back\Bess\VerenaM\aleena0037\cmspence\-------
-/*
 
 The maiden mouse of an arrogant mind
 To morbid romance was much inclined.
@@ -1565,9 +1324,7 @@ She sought them, caught them, carefully brought them
 Out to the light, and there she taught them
 How that chivalry often fails,
 By calmly cutting off all their tails!
-*/
 -----File: 111.png---\brando84back\Bess\VerenaM\aleena0037\cmspence\-------
-/*
 
 The maiden mouse of an arrogant mind
 Treated her swains in a way unkind.
@@ -1590,30 +1347,23 @@ You may beat him, cheat him, often defeat him,
 Though he be true with torture treat him:
 One of these days you'll be bereft,
 You think you're right, but you'll find you're left.
-*/
+P/
 -----File: 112.png---\nanda92\Mrs_T\VerenaM\aleena0037\ceb\----------------
-[Blank Page]
 -----File: 113.png---\brando84back\Bess\VerenaM\aleena0037\ceb\------------
-
-
-
-
-THE REMARKABLE REGIMEN
-OF
-THE SPRAT FAMILY
 -----File: 114.png---\brando84back\Bess\VerenaM\aleena0037\ceb\------------
-[Blank Page]
 -----File: 115.png---\brando84back\Bess\VerenaM\aleena0037\ceb\------------
 
 
 
 
 THE REMARKABLE REGIMEN
+
 OF
+
 THE SPRAT FAMILY
 
 
-/*
+/P
 The Sprats were four in number,
     Including twins in kilts:
 All day Jack carted lumber,
@@ -1626,9 +1376,7 @@ And all the buttons, I should state,
 They chanced to find, they promptly ate.
     This was not meat, but still it's true
     We did the same when we were two.
-*/
 -----File: 116.png---\Linlee\Bess\VerenaM\aleena0037\ceb\------------------
-/*
 
 The wife (whose name was Julia)
     Maintained an ample board,
@@ -1643,7 +1391,7 @@ Precluded any thought of waste,
     For all they left of any meal
     No self-respecting dog would steal.
 
-No generous <i>table d'hôte</i> meal,
+No generous <i><span lang="fr_FR">table d'hôte</span></i> meal,
     No dainties packed in tins,
 But only bowls of oatmeal
     They gave the wretched twins;
@@ -1651,9 +1399,7 @@ And yet like princes pampered
     Had lived those babes accursed,
 Could they have fed unhampered:--
     I have not told the worst!
-*/
 -----File: 117.png---\sandyn\Bess\VerenaM\aleena0037\ceb\------------------
-/*
 Since nothing from the dining-room
 Was left to feed the cook and groom,
     It seems that these domestics cruel
@@ -1676,9 +1422,7 @@ But when the twins grew older,
     As twins are apt to do,
 And, shoulder touching shoulder,
     Sat Sundays in their pew.
-*/
 -----File: 118.png---\Linlee\Bess\VerenaM\aleena0037\ceb\------------------
-/*
 They saw no Christian glory
     In parting with a dime,
 And in the offertory
@@ -1692,30 +1436,22 @@ Is good enough for heathen brats."
 Of buttons in collections found.
 Thus on the wheels of progress go,
 And heathens reap what Christians sew!
-*/
+P/
 -----File: 119.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-
-
-
-
-THE SINGULAR SANGFROID
-OF
-BABY BUNTING
 -----File: 120.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-[Blank Page]
 -----File: 121.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
 
 
 
 
-/*
 THE SINGULAR SANGFROID
+
 OF
+
 BABY BUNTING
-*/
 
 
-/*
+/P
 Bartholomew Benjamin Bunting
   Had only three passions in life,
 And one of the trio was hunting,
@@ -1729,9 +1465,7 @@ Belinda Bellonia Bunting,
   Thus widowed for half of the day,
 Her duty maternal confronting,
   With baby would patiently play.
-*/
 -----File: 122.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-/*
 When thus was her energy wasted
   A patented food she'd dispense.
 (She had bought it the day that they pasted
@@ -1754,10 +1488,8 @@ Which, seeing young Bonaparte wriggle,
   He gave him without a demur,
 And the babe with an aqueous giggle
   He swallowed the whole of the fur!
-*/
 -----File: 123.png---\Linlee\Bess\VerenaM\Christonie\ceb\------------------
 
-/*
 Belinda Bellonia Bunting
   Behaved like a consummate loon:
 Her offspring in frenzy confronting
@@ -1780,35 +1512,27 @@ The only consecutive sentence
   Precaution his folly regrets:
 An infant gets all that he chooses,
   An infant chews all that he gets.
-*/
 -----File: 124.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-/*
 And colics? He constantly has 'em
   So long as his food is the best,
 But he'll swallow with never a spasm
   What ostriches couldn't digest!
-*/
+P/
 -----File: 125.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-
-
-
-
-THE TOUCHING TENDERNESS
-OF
-KING KARL THE FIRST
 -----File: 126.png---\Linlee\Bess\zarabee\Christonie\ceb\------------------
-[Blank Page]
 -----File: 127.png---\RachelGutenberg\Mrs_T\zarabee\Christonie\ceb\--------
 
 
 
 
 THE TOUCHING TENDERNESS
+
 OF
+
 KING KARL THE FIRST
 
 
-/*
+/P
 For hunger and thirst King Karl the First
   Had a stoical, stern disdain:
 The food that he ordered consistently bordered
@@ -1822,9 +1546,7 @@ Said the steward: "The thing to tempt the King
   And charm his indifferent eye
 No doubt is a tasty, delectable pasty.
   Make him a blackbird pie!"
-*/
 -----File: 128.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
-/*
 The cook at these words baked twenty-four birds,
   And set them before the King,
 And the two dozen odious, bold, and melodious
@@ -1847,9 +1569,8 @@ We'll punish you so for the future you'll know
   That from mercy you can't depart.
 Observe that your lenient, kind, intervenient
   King has a tender heart!"
-*/
 -----File: 129.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
-/*
+
 He saw that the cook in a neighboring brook
   Was drowned (as he quite deserved),
 And he ordered the steward at once to be skewered.
@@ -1863,30 +1584,25 @@ So oft we're affected that we have suspected that
 Are apt to be wholly dissimilar things.
 In spite of "The Merchant of Venice," we're pained
 To note that the quality's sometimes strained.
-*/
+P/
 -----File: 130.png---\slshell\Mrs_T\zarabee\chenzw\ceb\--------------------
-[Blank Page]
 -----File: 131.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
-
-
-
-
-THE UNUSUAL UBIQUITY
-OF
-THE INQUISITIVE GANDER
 -----File: 132.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
-[Blank Page]
 -----File: 133.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
 
+[Illustration: "SHE PLUCKED HIM WITH RELENTLESS FROWN"]
+
 
 
 
 THE UNUSUAL UBIQUITY
+
 OF
+
 THE INQUISITIVE GANDER
 
 
-/*
+/P
 A gander dwelt upon a farm
   And no one could resist him,
 For had he died, such was his charm,
@@ -1900,9 +1616,7 @@ This bird was always nosing 'round.
   Most patiently he waited
 Until an open door he found,
   And then investigated.
-*/
 -----File: 134.png---\RachelGutenberg\Mrs_T\zarabee\chenzw\ceb\------------
-/*
 He loved to poke, he loved to peek,
 In every knothole, so to speak,
 He quickly thrust his prying beak,
@@ -1925,13 +1639,10 @@ In every room I've chanced to stop;
 A supervising glance to drop,
 I've looked below, I've looked on top,
   Behind, and in between, too!"
-*/
 -----File: 135.png---\GiniC\Bess\zarabee\chenzw\ceb\-----------------------
-[Illustration: "SHE PLUCKED HIM WITH RELENTLESS FROWN"]
 -----File: 136.png---\mabriggs\Bess\zarabee\chenzw\ceb\--------------------
-[Blank Page]
 -----File: 137.png---\GiniC\Bess\zarabee\chenzw\ceb\-----------------------
-/*
+
 One thing alone he found to blame,
   As thus his time he squandered,
 For, seeing not the farmer's dame,
@@ -1954,9 +1665,7 @@ For with a stoutish piece of string
   Securely was this fool tied,
 And by a leg and by a wing
   Unto an oaken stool tied:
-*/
 -----File: 138.png---\GiniC\Bess\zarabee\chenzw\ceb\-----------------------
-/*
 While, pinning towels around her gown,
 She plucked him with relentless frown,
 And stuffed the pillows with his down,
@@ -1970,7 +1679,7 @@ Be cautious, and retire before
 Or some day you will be like most
 Of all that bold exploring host
   That's gone to the interior.
-*/
+P/
 
 
 THE END
